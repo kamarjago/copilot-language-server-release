@@ -9,6 +9,7 @@ Copilot via [the language server protocol](https://microsoft.github.io/language-
 
 Please see [terms of use for GitHub Copilot](https://docs.github.com/en/site-policy/github-terms/github-terms-for-additional-products-and-features#github-copilot)
 
+
 ## Getting Started
 
 To integrate with the Copilot Language Server, download the latest release from npm:

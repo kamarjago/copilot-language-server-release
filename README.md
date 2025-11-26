@@ -1,4 +1,3 @@
-
 # @github/copilot-language-server
 
 The Copilot Language Server enables any editor or IDE to integrate with GitHub
